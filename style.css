@@ -1,0 +1,16 @@
+body{
+  background: purple;
+}
+.heading{
+  border: 5px solid black;
+  position: absolute;
+  text-align: center;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+}
+
+h1{
+  padding:30px;
+  background: rgba(0,0,0,0.5)
+}
